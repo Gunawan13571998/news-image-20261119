@@ -6,12 +6,12 @@
 
 The World in One Day — 19 November 2026: a 1024×1024 newspaper front page that sums up the world's news of Thursday 19 November 2026 in one image, entered in the make.fun competition **news-image-20261119** ("Sum up 19 November's world news in one image").
 
-A 1024×1024 newspaper front page drawn programmatically with PIL: a huge masthead, the date Thursday 19 November 2026, a red ticker strip, three hero stories, a world map with numbered pins, twelve more panels, and an In Brief strip — 32 stories in all, each one an event that happened or was first reported on 19 November 2026.
+A 1024×1024 newspaper front page drawn programmatically with PIL: a huge masthead, the date Thursday 19 November 2026, three hero stories, a big-number strip, a stories-by-region strip, a world map with numbered pins, ten more panels in two wide columns, an In Brief strip, and a DATE CHECK box — 34 stories in all, each one an event that happened or was first reported on 19 November 2026. This is the v3 layout: it follows the rank-1 pattern (GTA VI as a hero, big-number strip, DATE CHECK footer) while keeping the page legible at small size.
 
 ## Heroes
 
 1. **Three leaders, one table** — Trump, Xi and Putin hold their first three-way summit in Shenzhen; China and Russia issue a joint "peace declaration".
-2. **Myanmar guilty of genocide** — the ICJ rules 9–6 that Myanmar committed genocide against the Rohingya, the first time the World Court has held a state responsible.
+2. **GTA VI is out — and it scores 99** — Grand Theft Auto VI launches worldwide after 13 years, 99 on Metacritic, 17m+ copies pre-sold.
 3. **The $81.3 billion debut** — Anthropic starts trading on Nasdaq as ANT after the largest IPO ever, ahead of SpaceX's $75bn.
 
 ## Run it
