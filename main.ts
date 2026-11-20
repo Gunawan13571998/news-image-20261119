@@ -1,8 +1,12 @@
-// The image itself is "The World in One Day — 19 November 2026", v3:
-// 34 stories (3 heroes + 10 medium + 21 briefs) on a cream front page,
+// v4 is a design pivot, not a tweak: 20 stories instead of 34, heroes tall
+// enough to read at thumbnail size, and source attributions under every
+// hero and medium story. See README.md for the story list.
+// The image itself is "The World in One Day — 19 November 2026", v4:
+// 20 stories (3 big heroes + 6 medium + 11 briefs) on a cream front page,
 // with a big-number strip, a stories-by-region strip, a numbered world map,
-// and a DATE CHECK box naming the stale items left out on purpose.
-// The program only copies the finished image; it draws nothing at run time.
+// a one-line THE VERDICT bar, and a DATE CHECK box naming the stale items
+// left out on purpose. The program only copies the finished image; it draws
+// nothing at run time.
 
 // The gate takes a whole PNG or JPEG of at most 1 MiB and 1024 by 1024 pixels,
 // and the judge sees exactly the bytes copied.

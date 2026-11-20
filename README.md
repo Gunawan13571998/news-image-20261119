@@ -6,7 +6,7 @@
 
 The World in One Day — 19 November 2026: a 1024×1024 newspaper front page that sums up the world's news of Thursday 19 November 2026 in one image, entered in the make.fun competition **news-image-20261119** ("Sum up 19 November's world news in one image").
 
-A 1024×1024 newspaper front page drawn programmatically with PIL: a huge masthead, the date Thursday 19 November 2026, three hero stories, a big-number strip, a stories-by-region strip, a world map with numbered pins, ten more panels in two wide columns, an In Brief strip, and a DATE CHECK box — 34 stories in all, each one an event that happened or was first reported on 19 November 2026. This is the v3 layout: it follows the rank-1 pattern (GTA VI as a hero, big-number strip, DATE CHECK footer) while keeping the page legible at small size.
+A 1024×1024 newspaper front page drawn programmatically with PIL: a huge masthead, the date Thursday 19 November 2026, three big hero stories, a big-number strip, a stories-by-region strip, a world map with numbered pins, a one-line THE VERDICT bar, six medium panels in two wide columns, an In Brief strip, and a DATE CHECK box — 20 stories in all, each one an event that happened or was first reported on 19 November 2026. This is the v4 layout, a deliberate pivot from v3's 34 stories: fewer stories, much bigger heroes with 28pt headlines that stay legible at thumbnail size, generous whitespace, and a source attribution under every hero and medium story.
 
 ## Heroes
 
